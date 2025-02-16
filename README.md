@@ -103,9 +103,6 @@ The analysis leverages data collected from customer interactions with Uniace's w
 - Conversion rates depend heavily on external factors such as economic conditions and competitor activities.
 
 ---
-### Visuals and Interactive Dashboards
-- A Tableau dashboard visualizing trends and funnel performance can be accessed [here](#).
-- SQL queries used for data preparation and analysis are available [here](#).
 
 This project serves as a comprehensive analysis of Uniace’s digital presence and provides actionable insights to improve future strategies.
 
